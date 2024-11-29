@@ -47,8 +47,26 @@ If a variable is not “defined” (assigned a value), trying to use it will giv
 n # try to access an undefined variable
 ```
 
+``` python
+tax = 12.5 / 100
+price = 100.50
+price * tax
+```
+
+``` python
+price + _
+```
+
+``` python
+round(_, 2)
+```
 
 ## 2. Text
 
+``` python
+'spam eggs'  # single quotes
+"Paris rabbit got your back :)! Yay!"  # double quotes
+'1975'  # digits and numerals enclosed in quotes are also strings
+```
 
 ## 3. Lists¶
