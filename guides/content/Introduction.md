@@ -69,4 +69,25 @@ round(_, 2)
 '1975'  # digits and numerals enclosed in quotes are also strings
 ```
 
+``` python
+'doesn\'t'  # use \' to escape the single quote...
+"doesn't"  # ...or use double quotes instead
+'"Yes," they said.'
+"\"Yes,\" they said."
+'"Isn\'t," they said.'
+```
+
+The print() function
+``` python
+s = 'First line.\nSecond line.'  # \n means newline
+s  # without print(), special characters are included in the string
+print(s)  # with print(), special characters are interpreted, so \n produces new line
+```
+print path
+
+``` python
+print('C:\some\name')  # here \n means newline!
+print(r'C:\some\name')  # note the r before the quote
+```
+
 ## 3. Lists¶
