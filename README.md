@@ -1,1 +1,1 @@
-[A Link](/guides/content/editing-an-existing-page)
+[A Link](/guides/content%20/editing-an-existing-page)
