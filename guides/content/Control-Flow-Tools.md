@@ -1,5 +1,6 @@
 [back to Home Page](/README.md)
 # Control Flow Tools
+---
 
 ## 1. `while`
 
@@ -9,6 +10,7 @@ while a < 10:
     print(a)
     a = a + 1
 ```
+---
 
 ## 2. `if`
 
@@ -26,6 +28,7 @@ else:
     print('More')
 # More
 ```
+---
 
 ## 3. `for`
 
