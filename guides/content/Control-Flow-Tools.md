@@ -32,7 +32,6 @@ else:
 
 ## 3. `for`
 
-Lists also support operations like concatenation
 ``` python
 words = ['cat', 'window', 'defenestrate']
 for w in words:
